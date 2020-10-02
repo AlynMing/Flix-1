@@ -21,6 +21,7 @@ Flix is an app that allows users to browse movies from the [The Movie Database A
 
 ### Notes
 Describe any challenges encountered while building the app.
+<br/>
 Problems with the image views showing the picture in the wrong format, which was resolved by using aspect fit.
 
 ## Flix Part 1
@@ -42,4 +43,5 @@ Problems with the image views showing the picture in the wrong format, which was
 
 ### Notes
 Describe any challenges encountered while building the app.
+<br/>
 N/A 
